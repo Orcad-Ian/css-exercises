@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+
+/* GIRL PIC*/
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+
+/* GUY PIC */
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
