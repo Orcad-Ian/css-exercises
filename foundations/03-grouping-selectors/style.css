@@ -1,0 +1,19 @@
+
+/* FIRST THE COMMON BUTTON PROPERTIES*/
+button {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+
+/* NOW THE BLACK BUTTON */
+.blackbutton {
+    background-color: black;
+    color: white;
+}
+
+
+/* AND NOW THE YELLOW BUTTON */
+.yellowbutton {
+    background-color: yellow;
+}
